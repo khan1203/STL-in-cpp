@@ -1,7 +1,5 @@
-/*
-Problem from HackerRank:
-https://www.hackerrank.com/challenges/balanced-brackets/problem
-*/
+//Problem from HackerRank: https://www.hackerrank.com/challenges/balanced-brackets/problem
+
 #include <bits/stdc++.h>
 #define ll long long
 using namespace std;
